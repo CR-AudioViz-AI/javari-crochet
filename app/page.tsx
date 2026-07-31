@@ -19,7 +19,7 @@ export default function Home() {
           <a href="https://craudiovizai.com/auth/signup" style={{ background: '#6366f1',
                 color: 'white', borderRadius: 8, padding: '8px 18px',
                 fontSize: 13, fontWeight: 700, textDecoration: 'none' }}>
-            Get Started Free →
+            Get Started →
           </a>
         </div>
       </nav>
@@ -40,7 +40,7 @@ export default function Home() {
               background: 'linear-gradient(135deg,#6366f1,#8b5cf6)',
               color: 'white', borderRadius: 12, padding: '14px 32px',
               fontSize: 16, fontWeight: 700, textDecoration: 'none' }}>
-            Start Free — No Card →
+            Get Started — No Card →
           </a>
           <a href="https://javariai.com/javari" style={{
               background: 'rgba(255,255,255,0.08)', color: 'white',
